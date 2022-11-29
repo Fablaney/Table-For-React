@@ -1,5 +1,5 @@
 {
-    "name": "fablaney/table_React_sort_paginate",
+    "name": "fablaney/table_react_sort_paginate",
     "version": "1.0.0",
     "description": "React Table module with rows per pages, globalsearch, table with sorting, pagination",
     "main": "index.jsx",
