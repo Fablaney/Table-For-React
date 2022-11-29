@@ -1,0 +1,7 @@
+{
+    "name": "Table_React_sort_paginate",
+    "version": "1.0.0",
+    "description": "React Table module with rows per pages, globalsearch, table with sorting, pagination",
+    "main": "index.jsx",
+    "author": "Fablaney"
+}
