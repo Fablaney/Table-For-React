@@ -1,8 +1,8 @@
 {
   "name": "@fablaney/table-for-react",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "A react table with sort and paginate",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
