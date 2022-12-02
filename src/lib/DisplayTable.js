@@ -258,6 +258,4 @@ function DisplayTable( { columns, rows, lines } )
         </>
     )
 }
-module.exports = {
-    DisplayTable
-}
+export default DisplayTable
