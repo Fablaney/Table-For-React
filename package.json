@@ -1,6 +1,14 @@
 {
   "name": "@fablaney/table-for-react",
   "version": "0.1.6",
+  "author": "Fablaney",
+  "description": "this is an react table plugin, lines per pages, globalsearch, search in column, sort asc/desc on strings daates and numbers, clear filters, and pagination",
+  "keywords": [
+    "react",
+    "table",
+    "sort",
+    "search"
+  ],
   "private": false,
   "main": "dist/index.js",
   "files": [ "dist", "README.md" ],
