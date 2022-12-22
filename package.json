@@ -1,6 +1,6 @@
 {
   "name": "@fablaney/table-for-react",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "author": "Fablaney",
   "description": "this is an react table plugin, lines per pages, globalsearch, search in column, sort asc/desc on strings daates and numbers, clear filters, and pagination",
   "keywords": [
